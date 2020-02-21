@@ -4,8 +4,7 @@
 ```bash
 Requirements:
 
-Teradata ODBC Driver For Windows
-https://downloads.teradata.com/download/connectivity/odbc-driver/windows
+<a taget=_blank href = "https://downloads.teradata.com/download/connectivity/odbc-driver/windows">Teradata ODBC Driver For Windows</a>
 
 
 ODBC Data Source
