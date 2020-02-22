@@ -4,10 +4,10 @@
 ```bash
 Requirements:
 
-
-[Teradata ODBC Driver For Windows](https://downloads.teradata.com/download/connectivity/odbc-driver/windows).
-[ODBC Data Source](https://docs.microsoft.com/en-us/sql/integration-services/import-export-data/connect-to-an-odbc-data-source-sql-server-import-and-export-wizard?view=sql-server-ver15).
-
+<a href="https://docs.microsoft.com/en-us/sql/integration-services/import-export-data/connect-to-an-odbc-data-source-sql-server-import-and-export-wizard?view=sql-server-ver15">
+    ODBC Data Source<br></a>
+<a href="https://downloads.teradata.com/download/connectivity/odbc-driver/windows">
+    Teradata ODBC Driver For Windows<br></a>
 
 Teradata Express 16.20_Sles11 (Teradata Server Incase if you Orgnization doesn't have one)
 https://downloads.teradata.com/download/database/teradata-express-for-vmware-player
