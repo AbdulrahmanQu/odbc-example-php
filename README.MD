@@ -63,4 +63,5 @@ $connection=odbc_connect('this is the datasource name','this is the username','t
 
 More References:
 https://downloads.teradata.com/blog/odbcteam/2016/02/php-with-teradata-odbc
+<br>
 https://www.cdata.com/drivers/teradata/docs/
