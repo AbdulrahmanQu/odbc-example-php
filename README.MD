@@ -16,6 +16,8 @@ CDATA Alternative link<br></a>
 <a href="https://downloads.teradata.com/download/tools/teradata-tools-and-utilities-windows-installation-package" target = "_blank">
 Teradata Tools and Utilities<br></a>
 
+<br>
+<br>
 
 ```bash
 After Downloading the Requirements:
@@ -56,9 +58,9 @@ in the <a href="https://github.com/AbdulrahmanQu/odbc-example-php/blob/master/in
 $connection=odbc_connect('odbc','odbc','odbc');
 $connection=odbc_connect('this is the datasource name','this is the username','this is the password');
 ```
+<br>
+<br>
 
-```bash
 More References:
 https://downloads.teradata.com/blog/odbcteam/2016/02/php-with-teradata-odbc
 https://www.cdata.com/drivers/teradata/docs/
-```
