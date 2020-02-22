@@ -1,7 +1,6 @@
 # PHP Teradata connect over CDATA ODBC Driver
 
 ### Run example index.php
-```bash
 Requirements:
 
 <a href="https://docs.microsoft.com/en-us/sql/integration-services/import-export-data/connect-to-an-odbc-data-source-sql-server-import-and-export-wizard?view=sql-server-ver15">
@@ -19,8 +18,6 @@ https://www.cdata.com/drivers/teradata/download/odbc/
 Teradata Tools and Utilities
 https://downloads.teradata.com/download/tools/teradata-tools-and-utilities-windows-installation-package
 ```
-
-```bash
 
 After Downloading the Requirements:
 
