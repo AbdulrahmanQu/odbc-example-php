@@ -7,16 +7,14 @@ Requirements:
     ODBC Data Source<br></a>
 <a href="https://downloads.teradata.com/download/connectivity/odbc-driver/windows">
     Teradata ODBC Driver For Windows<br></a>
-
-Teradata Express 16.20_Sles11 (Teradata Server Incase if you Orgnization doesn't have one)
-https://downloads.teradata.com/download/database/teradata-express-for-vmware-player
-
-CDATA 
-https://www.cdata.com/drivers/teradata/odbc/
-https://www.cdata.com/drivers/teradata/download/odbc/
-
-Teradata Tools and Utilities
-https://downloads.teradata.com/download/tools/teradata-tools-and-utilities-windows-installation-package
+<a href="https://downloads.teradata.com/download/database/teradata-express-for-vmware-player">
+Teradata Express 16.20_Sles11 (Teradata Server Incase if you Orgnization doesn't have one)<br></a>
+<a href="https://www.cdata.com/drivers/teradata/odbc/">
+CDATA<br></a>
+<a href="https://www.cdata.com/drivers/teradata/download/odbc/">
+CDATA Alternative link<br></a>
+<a href="https://downloads.teradata.com/download/tools/teradata-tools-and-utilities-windows-installation-package">
+Teradata Tools and Utilities<br></a>
 ```
 
 After Downloading the Requirements:
